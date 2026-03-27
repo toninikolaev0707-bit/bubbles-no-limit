@@ -1,12 +1,18 @@
-# **Stat Bubbles for D&D** Owlbear Rodeo Extension
+---
+title: Stat Bubbles for D&D
+description: Health Bars and Armor Class for your D&D adventures!
+author: Seamus Finlayson
+image: https://github.com/SeamusFinlayson/Bubbles-for-Owlbear-Rodeo/assets/77430559/6e2bcd42-d59e-4482-8fc9-c514bfd3a1c5
+icon: https://owlbear-rodeo-bubbles-extension.onrender.com/logo.png
+tags:
+  - combat
+manifest: https://owlbear-rodeo-bubbles-extension.onrender.com/manifest.json
+learn-more: https://github.com/SeamusFinlayson/Bubbles-for-Owkbear-Rodeo
+---
 
-Track hit points and armor class using this [Owlbear Rodeo](https://www.owlbear.rodeo/) extension.
+# Stat Bubbles for D&D
 
-![Stat Bubbles GitHub Image](https://github.com/SeamusFinlayson/Bubbles-for-Owlbear-Rodeo/assets/77430559/6e2bcd42-d59e-4482-8fc9-c514bfd3a1c5)
-
-## Installing
-
-Visit the [Owlbear Rodeo store](https://extensions.owlbear.rodeo/bubble-tracker) to install the extension.
+_Health Bars and Armor Class for your D&D adventures!_
 
 ## How it works
 
@@ -84,31 +90,3 @@ I may accept feature requests but - as I have limited time and development plans
 If you need support for this extension you can message me in the [Owlbear Rodeo Discord](https://discord.gg/yWSErB6Qaj) @Seamus or open an issue on [GitHub](https://github.com/SeamusFinlayson/Bubbles-for-Owkbear-Rodeo).
 
 If you like using this extension consider [supporting me on Patreon](https://www.patreon.com/SeamusFinlayson) where paid members can request features. You can also follow along there as a free member for updates.
-
-## Building
-
-This project uses [pnpm](https://pnpm.io/) as a package manager.
-
-To install all the dependencies run:
-
-`pnpm install`
-
-To run in a development mode run:
-
-`pnpm dev`
-
-To make a production build run:
-
-`pnpm build`
-
-## License
-
-GNU GPLv3
-
-## Contributing
-
-Copyright (C) 2023 Owlbear Rodeo
-
-Copyright (C) 2023 Seamus Finlayson
-
-Feel free to fork this but if you post it to the store please do not use my extension name or logo. I am unlikely to accept pull requests.
